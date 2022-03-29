@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=GWT_Demo_Project
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=8.0.2
+product.original.version=8.0.2
+project.is-open-test-settings-after-upload=false
+project.id=775747fa-2282-46b7-84b0-992701870263
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

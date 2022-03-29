@@ -1,0 +1,9 @@
+GET http://samples.gwtproject.org/favicon.ico HTTP/1.1
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Encoding: br,deflate,gzip
+Accept-Language: en-US,en;q=0.9
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39
+Referer: http://samples.gwtproject.org/samples/Showcase/Showcase.html
+Host: samples.gwtproject.org
+
